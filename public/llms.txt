@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover handmade surf gear built for real wave riders at Peace Surfers, your ultimate hobies surf shop alternative. Shop artisan boards, gear &amp; ocean-lifestyle goods today.
+
+### Craftsmanship
+https://example.com/craftsmanship
+Explore the art behind every product at Peace Surfers. Our wavelength surf shop-inspired craftsmanship blends raw surf culture with handmade precision. Feel the difference quality makes.
+
+### About
+https://example.com/about
+Peace Surfers isn&#39;t just a surf store — it&#39;s a movement. Learn how our passion for the waves and the surf community shaped an innerlight surf shop spirit into every handmade piece we create.
+
+### Contact
+https://example.com/contact
+Got questions about our handmade surf gear? Reach out to the Peace Surfers crew — your local hobies surf shop connection — and let&#39;s find the perfect product for your next session.
+
+### Products
+https://example.com/products
+Our Products - Peace Surfers
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Peace Surfers
+
+### Category
+https://example.com/category/:slug
+Products - Peace Surfers
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt

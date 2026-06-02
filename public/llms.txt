@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# Peace Surfers — Generative Engine Optimization Map
+
+> A surf store specializing in handmade products crafted for surfers. The brand carries an artisanal, authentic ocean-lifestyle vibe, blending the raw energy of surf culture with the craftsmanship and uniqueness of handmade goods. Each product reflects a passion for the waves and the surf community.
 
 ---
 
@@ -68,12 +70,29 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+_No products are currently configured._
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+## About Peace Surfers
+A surf store specializing in handmade products crafted for surfers. The brand carries an artisanal, authentic ocean-lifestyle vibe, blending the raw energy of surf culture with the craftsmanship and uniqueness of handmade goods. Each product reflects a passion for the waves and the surf community.
+
+## Target Audience
+surfers
+
+## Industry
+retail / surf & outdoor
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

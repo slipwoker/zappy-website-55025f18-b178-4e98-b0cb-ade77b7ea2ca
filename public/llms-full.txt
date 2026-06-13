@@ -84,6 +84,9 @@ Ride the Craft, Own the Wave — Peace Surfers
 
 
 
+
+
+
 - Craftsmanship
 - About
 - Contact
@@ -547,6 +550,9 @@ Where Every Wave Starts by Hand — Peace Surfers
 
 
 - Products Products
+
+
+
 
 
 
@@ -1054,6 +1060,9 @@ Born From Salt, Built With Soul — Peace Surfers
 
 
 
+
+
+
 - Craftsmanship
 - About
 - Contact
@@ -1494,6 +1503,9 @@ Talk Waves With Us Today — Peace Surfers
 
 
 
+
+
+
 - Craftsmanship
 - About
 - Contact
@@ -1892,6 +1904,9 @@ Products - Peace Surfers
 
 
 
+
+
+
 - Craftsmanship
 - About
 - Contact
@@ -2079,6 +2094,9 @@ Cart - Peace Surfers
 
 
 
+
+
+
 - Craftsmanship
 - About
 - Contact
@@ -2235,6 +2253,9 @@ Checkout - Peace Surfers
 
 
 - Products Products
+
+
+
 
 
 
@@ -2591,6 +2612,9 @@ Login - Peace Surfers
 
 
 
+
+
+
 - Craftsmanship
 - About
 - Contact
@@ -2754,6 +2778,9 @@ My Account - Peace Surfers
 
 
 - Products Products
+
+
+
 
 
 
@@ -3086,6 +3113,9 @@ Order Received! - Peace Surfers
 
 
 
+
+
+
 - Craftsmanship
 - About
 - Contact
@@ -3273,6 +3303,9 @@ Return Policy - Peace Surfers
 
 
 
+
+
+
 - Craftsmanship
 - About
 - Contact
@@ -3303,7 +3336,7 @@ All Products
 # Return Policy
 
 
-Last Updated: 6/2/2026
+Last Updated: 6/13/2026
 
 
 
@@ -3489,6 +3522,9 @@ Product Details - Peace Surfers
 
 
 
+
+
+
 - Craftsmanship
 - About
 - Contact
@@ -3647,6 +3683,9 @@ Products - Peace Surfers
 
 
 - Products Products
+
+
+
 
 
 
@@ -3816,6 +3855,9 @@ Privacy Policy
 
 
 - Products Products
+
+
+
 
 
 
@@ -4060,6 +4102,9 @@ Accessibility Statement
 
 
 
+
+
+
 - Craftsmanship
 - About
 - Contact
@@ -4296,6 +4341,9 @@ Terms & Conditions
 
 
 - Products Products
+
+
+
 
 
 
